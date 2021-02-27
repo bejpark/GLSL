@@ -1,0 +1,8 @@
+﻿  20160392proj2.cpp
+C:\Users\user\Desktop\그래픽스\Midterm\Midterm\20160392proj2.cpp(116,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\그래픽스\Midterm\Midterm\20160392proj2.cpp(160,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\그래픽스\Midterm\Midterm\20160392proj2.cpp(173,90): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\Desktop\그래픽스\Midterm\Midterm\20160392proj2.cpp(185,59): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\그래픽스\Midterm\Midterm\20160392proj2.cpp(188,18): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\Desktop\그래픽스\Midterm\Midterm\20160392proj2.cpp(190,18): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Midterm.vcxproj -> C:\Users\user\Desktop\그래픽스\Midterm\Midterm\x64\Debug\Midterm.exe
