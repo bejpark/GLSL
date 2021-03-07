@@ -1,2 +1,2 @@
-# GLSL
-[C++] GLSL
+# GLSL (OpenGL)
+[C++] GLSL OpenGL
